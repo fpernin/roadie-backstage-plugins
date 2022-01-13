@@ -1,5 +1,17 @@
 # @roadiehq/backstage-plugin-github-insights
 
+## 1.4.3
+
+### Patch Changes
+
+- 3de124a: Bump github insights plugin
+
+## 1.4.2
+
+### Patch Changes
+
+- 49abec7: Update patch to release new changes.
+
 ## 1.4.1
 
 ### Patch Changes

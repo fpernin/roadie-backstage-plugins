@@ -1,5 +1,17 @@
 # @roadiehq/backstage-plugin-security-insights
 
+## 1.5.3
+
+### Patch Changes
+
+- ecd06f5: Make "@backstage/core-app-api" a dev dependency
+
+## 1.5.2
+
+### Patch Changes
+
+- 49abec7: Update patch to release new changes.
+
 ## 1.5.1
 
 ### Patch Changes

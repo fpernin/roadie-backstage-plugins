@@ -1,5 +1,17 @@
 # @roadiehq/backstage-plugin-datadog
 
+## 1.4.3
+
+### Patch Changes
+
+- ecd06f5: Make "@backstage/core-app-api" a dev dependency
+
+## 1.4.2
+
+### Patch Changes
+
+- 49abec7: Update patch to release new changes.
+
 ## 1.4.1
 
 ### Patch Changes

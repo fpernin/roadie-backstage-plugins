@@ -1,5 +1,23 @@
 # @roadiehq/backstage-plugin-argo-cd
 
+## 1.5.4
+
+### Patch Changes
+
+- ecd06f5: Make "@backstage/core-app-api" a dev dependency
+
+## 1.5.3
+
+### Patch Changes
+
+- b69543e: Fix bug where an instance with no items would crash the card
+
+## 1.5.2
+
+### Patch Changes
+
+- 49abec7: Update patch to release new changes.
+
 ## 1.5.1
 
 ### Patch Changes
